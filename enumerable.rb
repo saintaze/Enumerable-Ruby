@@ -55,5 +55,5 @@ end
 # Test the enumerable inject method
 
 def multiply_els(arr)
-	arr.my_inject(&:*)
+  arr.my_inject(&:*)
 end
