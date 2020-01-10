@@ -7,4 +7,4 @@ This is the implementation of custom iterator methods of Enumerable module in ru
 + Ruby
 
 # Author
-+ Saintaze [@saintaze](https://github.com/saintaze/)
+Saintaze [@saintaze](https://github.com/saintaze/)
